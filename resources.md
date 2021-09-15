@@ -1,6 +1,8 @@
 Date@140921
 =========================
 https://www.w3resource.com/graphics/matplotlib/basic/index.php
+https://pynative.com/python-basic-exercise-for-beginners/
+https://www.kaggle.com/leonlxy/matplotlib-tutorial-with-exercises-1
 
 Notes:
 =====================================
