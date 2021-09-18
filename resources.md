@@ -56,3 +56,8 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 10: Ordered bar chart conveys the rank order of the items effectively. But adding the value of the metric above the chart, the user gets the precise information from the chart itself.
 
 11: Lollipop chart serves a similar purpose as a ordered bar chart in a visually pleasing way
+
+12: Slope chart is most suitable for comparing the ‘Before’ and ‘After’ positions of a given person/item.
+
+13: Dumbbell plot conveys the ‘before’ and ‘after’ positions of various items along with the rank ordering of the items. Its very useful if you want to visualize the effect of a particular project / initiative on different objects. 
+
