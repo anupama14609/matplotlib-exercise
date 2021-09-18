@@ -61,3 +61,4 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 
 13: Dumbbell plot conveys the ‘before’ and ‘after’ positions of various items along with the rank ordering of the items. Its very useful if you want to visualize the effect of a particular project / initiative on different objects. 
 
+14: Histogram shows the frequency distribution of a given variable. It representation a greater insight about the continuous variable and the categorical variable in tandem.
