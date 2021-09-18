@@ -62,3 +62,7 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 13: Dumbbell plot conveys the ‘before’ and ‘after’ positions of various items along with the rank ordering of the items. Its very useful if you want to visualize the effect of a particular project / initiative on different objects. 
 
 14: Histogram shows the frequency distribution of a given variable. It representation a greater insight about the continuous variable and the categorical variable in tandem.
+
+15:Density curve with histogram brings together the collective information conveyed by the two plots so you can have them both in a single figure instead of two.
+
+16: Density plots are a commonly used tool visualise the distribution of a continuous variable. By grouping them by the ‘response’ variable, you can inspect the relationship between the X and the Y. 
