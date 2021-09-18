@@ -65,4 +65,6 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 
 15:Density curve with histogram brings together the collective information conveyed by the two plots so you can have them both in a single figure instead of two.
 
-16: Density plots are a commonly used tool visualise the distribution of a continuous variable. By grouping them by the ‘response’ variable, you can inspect the relationship between the X and the Y. 
+16: Density plots are a commonly used tool visualise the distribution of a continuous variable. By grouping them by the ‘response’ variable, you can inspect the relationship between the X and the Y.
+
+17: Joy Plot allows the density curves of different groups to overlap, it is a great way to visualize the distribution of a larger number of groups in relation to each other. It looks pleasing to the eye and conveys just the right information clearly. It can be easily built using the joypy package which is based on matplotlib
