@@ -79,4 +79,4 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 
 22: Categorical plots provided by the seaborn library can be used to visualize the counts distribution of 2 ore more categorical variables in relation to each other.
 
-23: 
+23: The waffle chart can be created using the pywaffle package and is used to show the compositions of groups in a larger population.
