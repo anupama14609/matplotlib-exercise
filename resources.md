@@ -82,3 +82,5 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 23: The waffle chart can be created using the pywaffle package and is used to show the compositions of groups in a larger population.
 
 24: Pie chart is a classic way to show the composition of groups. However, its not generally advisable to use nowadays because the area of the pie portions can sometimes become misleading. So, if you are to use pie chart, its highly recommended to explicitly write down the percentage or numbers for each portion of the pie.
+
+25: Tree map is similar to a pie chart and it does a better work without misleading the contributions by each group.
