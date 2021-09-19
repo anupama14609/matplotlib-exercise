@@ -84,3 +84,5 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 24: Pie chart is a classic way to show the composition of groups. However, its not generally advisable to use nowadays because the area of the pie portions can sometimes become misleading. So, if you are to use pie chart, its highly recommended to explicitly write down the percentage or numbers for each portion of the pie.
 
 25: Tree map is similar to a pie chart and it does a better work without misleading the contributions by each group.
+
+26: Bar chart is a classic way of visualizing items based on counts or any given metric. In below chart, I have used a different color for each item, but you might typically want to pick one color for all items unless you to color them by groups.
