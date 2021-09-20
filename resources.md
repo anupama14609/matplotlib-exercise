@@ -87,6 +87,13 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 
 26: Bar chart is a classic way of visualizing items based on counts or any given metric. In below chart, I have used a different color for each item, but you might typically want to pick one color for all items unless you to color them by groups.
 
-27: Time series plot is used to visualise how a given metric changes over time. Here you can see how the Air Passenger traffic changed between 1949 and 1969. useful for predicing and forcasting for historical data
+27: Time series plot is used to visualise how a given metric changes over time. Here you can see how the Air Passenger traffic changed between 1949 and 1969. useful for predicing and forcasting for historical data 
+
+28: The ACF plot shows the correlation of the time series with its own lags. Each vertical line (on the autocorrelation plot) represents the correlation between the series and its lag starting from lag 0. The blue shaded region in the plot is the significance level. . Those lags that lie above the blue line are the significant lags.
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/#33.-Treemap
+
+29: Cross correlation plot shows the lags of two time series with each other.
+
+
 
 
