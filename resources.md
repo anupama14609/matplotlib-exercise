@@ -86,3 +86,7 @@ sns.lmplot() from the dataset (mpg_ggplot2.csv)
 25: Tree map is similar to a pie chart and it does a better work without misleading the contributions by each group.
 
 26: Bar chart is a classic way of visualizing items based on counts or any given metric. In below chart, I have used a different color for each item, but you might typically want to pick one color for all items unless you to color them by groups.
+
+27: Time series plot is used to visualise how a given metric changes over time. Here you can see how the Air Passenger traffic changed between 1949 and 1969. useful for predicing and forcasting for historical data
+
+
